@@ -1,0 +1,10 @@
+MAKANAN|Nasi Goreng|25000|makanan|Goreng
+MAKANAN|Ayam Bakar|35000|makanan|Bakar
+MAKANAN|Mie Goreng|20000|makanan|Goreng
+MAKANAN|Sate Ayam|30000|makanan|Bakar
+MINUMAN|Es Teh|5000|minuman|Dingin
+MINUMAN|Es Jeruk|8000|minuman|Dingin
+MINUMAN|Kopi Susu|12000|minuman|Panas
+MINUMAN|Air Mineral|4000|minuman|Dingin
+DISKON|Diskon Member|0|diskon|15
+MAKANAN|Ceker Pedas|25000|makanan|Goreng
